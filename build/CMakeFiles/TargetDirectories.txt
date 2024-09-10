@@ -1,0 +1,3 @@
+D:/LocalTrashCan/build/CMakeFiles/Rasterizer.dir
+D:/LocalTrashCan/build/CMakeFiles/ALL_BUILD.dir
+D:/LocalTrashCan/build/CMakeFiles/ZERO_CHECK.dir
