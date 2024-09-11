@@ -5,7 +5,7 @@
 #ifndef RASTERIZER_TRIANGLE_H
 #define RASTERIZER_TRIANGLE_H
 
-#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
+//#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
 
 
 using namespace Eigen;

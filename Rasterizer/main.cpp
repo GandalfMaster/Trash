@@ -4,7 +4,7 @@
 #include "rasterizer.hpp"
 #include "global.hpp"
 #include "Triangle.hpp"
-#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
+//#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
 constexpr double MY_PI = 3.1415926;
 Eigen::Matrix4f get_view_matrix(Eigen::Vector3f eye_pos)
 {

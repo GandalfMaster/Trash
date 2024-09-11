@@ -9,7 +9,7 @@
 #include <opencv2/opencv.hpp>
 #include <math.h>
 #include <tuple>
-#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
+//#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
 
 rst::pos_buf_id rst::rasterizer::load_positions(const std::vector<Eigen::Vector3f> &positions)
 {

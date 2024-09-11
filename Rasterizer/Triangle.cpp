@@ -5,7 +5,7 @@
 #include "Triangle.hpp"
 #include <algorithm>
 #include <array>
-#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
+//#include <D:\CG\eigen-3.4.0\Eigen\Eigen>
 
 Triangle::Triangle() {
     v[0] << 0,0,0;
