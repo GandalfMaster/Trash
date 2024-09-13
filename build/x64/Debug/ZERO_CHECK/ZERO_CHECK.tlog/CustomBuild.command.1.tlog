@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO\DESKTOP\RASTERIZER\BUILD\CMAKEFILES\2E9CA30B8B1C9E53BE3C1C8E08008E4C\GENERATE.STAMP.RULE
+setlocal
+D:\cmake-3.30.3-windows-x86_64\bin\cmake.exe -SC:/Users/Lenovo/Desktop/Rasterizer -BC:/Users/Lenovo/Desktop/Rasterizer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lenovo/Desktop/Rasterizer/build/Rasterizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
