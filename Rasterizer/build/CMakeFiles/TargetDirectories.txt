@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Desktop/Rasterizer/build/CMakeFiles/Rasterizer.dir
-C:/Users/Lenovo/Desktop/Rasterizer/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Lenovo/Desktop/Rasterizer/build/CMakeFiles/ZERO_CHECK.dir
