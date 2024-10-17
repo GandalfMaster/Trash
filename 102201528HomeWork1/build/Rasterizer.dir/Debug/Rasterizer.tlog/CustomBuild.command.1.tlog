@@ -1,0 +1,10 @@
+^E:\WORK\RASTERIZER\CMAKELISTS.TXT
+setlocal
+D:\cmake-3.30.3-windows-x86_64\bin\cmake.exe -SE:/Work/Rasterizer -BE:/Work/Rasterizer/build --check-stamp-file E:/Work/Rasterizer/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

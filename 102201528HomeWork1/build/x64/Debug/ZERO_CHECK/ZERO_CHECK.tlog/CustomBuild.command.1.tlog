@@ -1,0 +1,10 @@
+^E:\WORK\RASTERIZER\BUILD\CMAKEFILES\DBFBC66EB30C7851162B5B5C53C8BEF0\GENERATE.STAMP.RULE
+setlocal
+D:\cmake-3.30.3-windows-x86_64\bin\cmake.exe -SE:/Work/Rasterizer -BE:/Work/Rasterizer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Work/Rasterizer/build/Rasterizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
