@@ -84,7 +84,7 @@ void rst::rasterizer::rasterize_triangle(const Triangle& t) {
 
 这个代码的实现结果如下，可以看到图像边沿有明显的锯齿感
 
-![](./photo\1.png)
+![](./photo/1.png)
 
 这是因为我们的采样不够细，可以进一步采用超采样来实现
 
@@ -142,4 +142,4 @@ void rst::rasterizer::super_rasterize_triangle(const Triangle& t) {
 
 通过这个函数，我们可以看到基本实现了平滑的三角形。
 
-![2](./photo\2.png)
+![2](./photo/2.png)
