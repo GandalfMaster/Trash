@@ -1,0 +1,243 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CGL",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-CGL-Debug-11ee1ce43757d7d9e5f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "CGL"
+				},
+				{
+					"build" : "CGL/deps/freetype",
+					"jsonFile" : "directory-CGL.deps.freetype-Debug-77fadadc91cd2f318e26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "CGL/deps/freetype"
+				},
+				{
+					"build" : "CGL/deps/glew",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-CGL.deps.glew-Debug-185fca5109734003913e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "CGL/deps/glew",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "CGL/deps/glfw",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-CGL.deps.glfw-Debug-f35a57c95a49dfc46166.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "CGL/deps/glfw",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "CGL/deps/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-CGL.deps.glfw.src-Debug-88b82a18bbb5eb31578b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "CGL/deps/glfw/src",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "CGL/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-CGL.src-Debug-9c39402eb9ce40086c5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "CGL/src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-1c34fd9b86cca58c21f9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						7
+					],
+					"name" : "ColladaViewer",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						6
+					],
+					"name" : "CGL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "GLFW",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "CGL::@471a8420bb23f6744067",
+					"jsonFile" : "target-CGL-Debug-6c544b577f07888013ea.json",
+					"name" : "CGL",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glew::@7bafe57aeea771ebdd0a",
+					"jsonFile" : "target-glew-Debug-8dba17858ecf665fb7cd.json",
+					"name" : "glew",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "glfw::@3a9041b068fa7b25e39f",
+					"jsonFile" : "target-glfw-Debug-0abfc2c22dce12ed1cb3.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "meshedit::@145eef247bfb46b6828c",
+					"jsonFile" : "target-meshedit-Debug-a2012c366228ce1b811a.json",
+					"name" : "meshedit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "uninstall::@3efd33267113cda152d1",
+					"jsonFile" : "target-uninstall-Debug-f739a9be0cc45d48e910.json",
+					"name" : "uninstall",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Work/code/out/build/x64-Debug",
+		"source" : "E:/Work/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

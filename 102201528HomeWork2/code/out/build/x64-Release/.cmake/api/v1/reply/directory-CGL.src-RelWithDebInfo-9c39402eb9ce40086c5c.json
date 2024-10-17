@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CGL/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 156,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 162,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"CGL/src/CGL.lib"
+			],
+			"targetId" : "CGL::@471a8420bb23f6744067",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "CGL::@471a8420bb23f6744067",
+				"index" : 0
+			},
+			"destination" : "lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/CGL",
+			"paths" : 
+			[
+				"CGL/src/CGL.h",
+				"CGL/src/vector2D.h",
+				"CGL/src/vector3D.h",
+				"CGL/src/vector4D.h",
+				"CGL/src/matrix3x3.h",
+				"CGL/src/matrix4x4.h",
+				"CGL/src/quaternion.h",
+				"CGL/src/complex.h",
+				"CGL/src/color.h",
+				"CGL/src/osdtext.h",
+				"CGL/src/viewer.h",
+				"CGL/src/base64.h",
+				"CGL/src/tinyxml2.h",
+				"CGL/src/renderer.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "CGL/src",
+		"source" : "CGL/src"
+	}
+}

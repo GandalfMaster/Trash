@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-CMakeLists",
+      "appliesTo": "CMakeLists.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "\u4EFB\u52A1-CMakeLists",
+      "appliesTo": "CMakeLists.txt",
+      "type": "launch"
+    }
+  ]
+}

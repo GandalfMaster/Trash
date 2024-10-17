@@ -1,0 +1,254 @@
+[
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glew.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\glew.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\glew.c",
+  "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glew.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glewinfo.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
+  "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glewinfo.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\visualinfo.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
+  "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\visualinfo.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\context.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\context.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\init.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\init.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\input.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\input.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\window.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\window.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\winmm_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\winmm_joystick.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src -IE:\\Work\\102201528HomeWork2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
+  "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector2D.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector2D.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector2D.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector2D.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector3D.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector3D.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector3D.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector3D.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector4D.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector4D.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\vector4D.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector4D.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\matrix3x3.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\matrix3x3.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\matrix4x4.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\matrix4x4.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\quaternion.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\quaternion.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\quaternion.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\quaternion.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\complex.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\complex.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\complex.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\complex.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\color.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\color.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\color.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\color.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdtext.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\osdtext.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\osdtext.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\osdtext.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdfont.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\osdfont.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\osdfont.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\osdfont.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\viewer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\viewer.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\viewer.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\viewer.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\base64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\base64.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\base64.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\base64.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -DGLEW_STATIC -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\deps\\glew\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\tinyxml2.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\CGL\\src\\tinyxml2.cpp",
+  "output": "CGL\\src\\CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierPatch.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\bezierPatch.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\bezierPatch.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\bezierPatch.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierCurve.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\bezierCurve.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\bezierCurve.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\bezierCurve.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\scene.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\scene.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\scene.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\scene.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\camera.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\camera.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\camera.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\camera.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\light.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\light.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\light.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\light.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\mesh.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\mesh.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\mesh.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\material.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\material.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\material.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\material.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\texture.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\texture.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\texture.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\texture.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\collada.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\collada.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\collada.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\collada.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\halfEdgeMesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\halfEdgeMesh.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\halfEdgeMesh.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\halfEdgeMesh.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\student_code.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\student_code.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\student_code.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\student_code.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\meshEdit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\meshEdit.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\meshEdit.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\meshEdit.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\main.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\main.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\main.cpp.obj"
+},
+{
+  "directory": "E:/Work/102201528HomeWork2/code/out/build/x64-Release",
+  "command": "\"D:\\Visual Studio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IE:\\Work\\102201528HomeWork2\\code\\CGL\\include -ID:\\pkg\\vcpkg\\installed\\x64-windows\\include -IE:\\Work\\102201528HomeWork2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\png.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\Work\\102201528HomeWork2\\code\\src\\png.cpp",
+  "file": "E:\\Work\\102201528HomeWork2\\code\\src\\png.cpp",
+  "output": "src\\CMakeFiles\\meshedit.dir\\png.cpp.obj"
+}
+]
